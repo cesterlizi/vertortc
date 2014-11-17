@@ -1,0 +1,16 @@
+#click2call a:hover { 
+    opacity: 0.5; 
+}
+
+#click2call_callbtn img {
+	height: 100px;
+}
+
+#click2call_hupbtn img {
+	height: 100px;
+}
+
+#click2call_msgdiv {
+	font-size: 12px;
+	font-weight: bold;
+}
